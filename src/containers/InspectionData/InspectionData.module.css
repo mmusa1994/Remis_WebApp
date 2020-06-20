@@ -1,0 +1,72 @@
+.InspectionData {
+  margin: 20px auto;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.InspectionData:hover {
+  box-shadow: 0 5px 10px 10px #631111;
+  transition: all 0.8s ease;
+  margin: 20px auto;
+}
+.RedirectMessage {
+  text-align: center;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: auto;
+  width: 50%;
+  margin: auto;
+  color: #c00909;
+}
+.RedirectMessage:hover {
+  box-shadow: 0 5px 10px 10px #631111;
+  transition: all 0.5s ease;
+}
+.RedirectMessage a {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid #aa0505;
+  border-radius: 0px;
+  color: #7c0101;
+  box-shadow: 0 2px 3px #7c0101;
+  text-align: center;
+  margin: 10px 0px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.RedirectMessage a:hover {
+  box-shadow: 0 2px 5px 5px #631111;
+  transition: all 0.5s ease;
+}
+
+.Message {
+  color: #2c862c;
+}
+@media (min-width: 600px) {
+  .InspectionData {
+    width: 500px;
+  }
+}
+
+@media (max-width: 900px) {
+  .RedirectMessage {
+    font-size: 15px;
+  }
+  .RedirectMessage a {
+    font-size: 15px;
+  }
+}

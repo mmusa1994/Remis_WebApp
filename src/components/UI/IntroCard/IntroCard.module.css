@@ -1,0 +1,49 @@
+.CardContainer {
+  height: 180px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  box-shadow: 0 5px 10px #ccc;
+  background-color: white;
+  padding: 5px;
+  margin: 5px;
+  font-family: "Righteous", cursive;
+}
+.CardContainer:hover {
+  box-shadow: 0 10px 20px #ccc;
+  height: 200px;
+  width: 220px;
+  transition: all 0.5s ease;
+  margin: 0px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.title {
+  color: #8b0f0f;
+  font-size: 20px;
+  margin: 0 auto;
+}
+
+.Image {
+  position: relative;
+  overflow: hidden;
+  align-self: center;
+  height: auto;
+  width: 100%;
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 10px;
+  }
+  .CardContainer {
+    height: 80px;
+    width: 100px;
+  }
+}

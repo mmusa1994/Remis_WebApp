@@ -1,0 +1,234 @@
+{
+  "Navigation": {
+    "Home": "Home",
+    "About Us": "About Us",
+    "Services": "Services",
+    "News": "News",
+    "Branches": "Branches",
+    "Contacts": "Contacts",
+    "Visual Car Data": "Visual Car Data",
+    "Apply for Technical Inspection": "Apply for Technical Inspection",
+    "Authentication": "Login",
+    "Logout": "Logout",
+
+    "Dropdown": {
+      "vti": "Vehicle Technical Inspection",
+      "crt": "Vehicle certification",
+      "hom": "Homologation",
+      "vr": "Vehicle Registration",
+      "coo": "Change of Ownership",
+      "enr": "Engine number reading",
+      "tacho": "Tachographs"
+    }
+  },
+
+  "BcgTitle": {
+    "descpart1": "For more information about",
+    "descpart2": "visit our partner site below",
+    "btn1": "BACK TO HOME PAGE",
+    "btn2": "APPLY FOR INSPECTION",
+    "messReg": "Calculate your registration on our partner site below "
+  },
+
+  "Slideshow": {
+    "MORE": "MORE...",
+    "APPLY FOR INSPECTION": "APPLY FOR INSPECTION",
+    "pic1": "INTERACTIVE ENVIRONMENT INSPECTION",
+    "pic2": "COMPUTERIZED PROCESS",
+    "pic3": "FRIENDLY STAFF",
+    "pic4": "DRIVE SAFE"
+  },
+
+  "Home": {
+    "WelcomeHead": "Welcome to the official site of Remis d.o.o.",
+    "CompanyDescription": " Today, we are pleased to note that with about a hundred employees and our network of business units for vehicle inspection and type-approval stations and technical services for type approval and certification, it is a recognizable brand and association for a credible institution in the field of technical inspection and related services in the FBiH. On the one hand, we want to confirm, retain and secure a leadership position, and on the other, to provide our valued clients and long-term partners with the highest quality and treatment on the market of Bosnia and Herzegovina they deserve.",
+    "Make an appointment": "Make an appointment",
+    "Contact Us": "Contact Us",
+    "ContactInfo": " For years consecutively number 1 in the number of technical inspections carried out in the territory of Bosnia and Herzegovina, thanks primarily to the management team, which together with the kind and expert technical controllers and administrative workers knows how to gain, justify and maintain the trust of their clients.",
+
+    "NewsBox": {
+      "title1": "Remis d.o.o. rolling stock meeting",
+      "content1": "The employees of the insurance representation company VIns d.o.o  Visoko and the REMIS company registered for technical ...",
+      "title2": "Vins expanding business network",
+      "content2": "Insurance Company VIns d.o.o. It is a highly exclusive partner of the international insurance company and European brand - GRAWE insurance, as well as a partner ...",
+      "title3": "Citroën is official Remis car",
+      "content3": "Remis d.o.o. rebuilt the fleet in collaboration with Berliet employees of the insurance representation company VIns d.o.o. Visoko and the REMIS companies registered for vehicle inspection and registration gathered ..."
+    }
+  },
+
+  "DataForm": {
+    "Instruction": "Enter your data",
+    "SuccMess": "Your mail was successful sended!",
+    "SuccApp": "Your apply was successful!",
+    "AuthMess": " You are not authorizate! for that operation, authorize below on",
+    "sb": "SEND",
+    "sa": "APPLY",
+    "Submit": "SUBMIT",
+    "Switch": "SWITCH TO",
+    "Switch1": " SIGNIN",
+    "Switch2": " SIGNUP"
+  },
+
+  "Footer": {
+    "Licence": "LICENSED BY",
+    "Partners": "PARTNERSHIP WITH",
+    "Desc": "Wholesale, retail trade company and services \"REMIS\" d.o.o. Visoko",
+    "Rights": "All right reserved"
+  },
+
+  "Contacts": {
+    "banner": "DIRECTORY",
+    "tel": "Telephone",
+    "mess": "WRITE TO US",
+    "mailMess": "Contact us via Mail form below or on click!",
+    "branchMess": "If you would like to contact individual business premises, click here!",
+    "address": "Address"
+  },
+
+  "Card": {
+    "mess": "MORE ABOUT",
+    "bb": "BACK"
+  },
+
+  "AboutUs": {
+    "Intro": "\"REMIS\" d.o.o. was founded in 1991. years.",
+    "part1": "Since 2000, intensive development of the company and investment in the company has been initiated staff education, infrastructure, and expansion of the range of services i conquering the market.",
+    "part2": "Today, we are pleased to note that with about a hundred employees and our network of business units for vehicle inspection and type-approval stations and technical services for type approval and certification, it is a recognizable brand and association for a credible institution in the field of technical inspection and related services in the FBiH.",
+    "part3": "In the following period, “REMIS” d.o.o. It is highly intended to invest additional funds in the construction of new vehicles for the technical inspection of vehicles and the recruitment of young professionals to complete their presence in all areas of interest.",
+    "part4": "On the one hand, we want to confirm, retain and secure a leadership  position, and on the other, to provide our valued clients and  long-term partners with the highest quality and treatment on the market of Bosnia and Herzegovina they deserve.",
+    "part5": "Director: "
+  },
+
+  "Services": {
+    "vti": {
+      "part1": "The purpose of the roadworthiness test is to detect a vehicle malfunction that is unsafe for you and your environment, and to remedy it before something bad happens.",
+      "part2": "Technical inspections of vehicles are carried out in accordance with the \"Law on Basics of Road Traffic Safety in Bosnia and Herzegovina\", \"Rulebook on Vehicle Technical Inspections\", \"Rulebook on Preventive Technical Inspections\" and \"Rulebook on Technical and Exploitation Conditions\" for the purpose of technical inspection safety and environmental friendliness of the vehicle. Technical inspections are carried out on motor vehicles and trailers.",
+      "part3": "Technical inspection of the vehicle means inspection of the equipment and devices of the vehicle which are carried out in order to determine whether the vehicle has the prescribed devices and equipment and that it is in proper condition, and whether it fulfills other prescribed conditions for traffic participation.",
+      "part4": "By their nature, the types of technical inspection may be:",
+      "part5": "Regular technical inspection, Extraordinary technical inspection, Preventive technical inspection, Determination of technical and exploitation conditions.",
+      "part6": "Regular vehicle inspection is a technical inspection carried out before the first registration of the vehicle and during the renewal of the vehicle registration. Regular vehicle technical inspections shall be carried out prior to the expiry of the registration for a period not exceeding 30 days.",
+      "part7": "Extraordinary technical inspection of vehicles is performed:",
+      "part8": "- at the request of the authorized official if there is a reasonable suspicion that the continued use of the vehicle would endanger traffic safety, or that the vehicle is excessively polluting the air or making excessive noise;",
+      "part9": "- after an emergency;",
+      "part10": "- after completing the installation or alteration of the assembly or more of which the technical soundness of the vehicle (controls, stopping devices, coupling devices for towing and towing vehicles, gas installation and other devices important for road safety) depends on the correctness of the vehicle, and certification of the vehicle within 15 days;",
+      "part11": "- at the request of the owner or driver of the vehicle.",
+      "part12": "- Preventive technical inspection can be daily and periodic.",
+      "part13": "- The STP is subjected to periodic preventive roadworthiness tests, depending on the age, type and purpose of the vehicle, in accordance with the provisions of the relevant Rulebook, within the stipulated time limits or after the vehicle has passed the prescribed number of kilometers from the date of the previous technical inspection.",
+      "part14": "Establishment of technical and operational conditions shall ensure that the motor vehicle and trailer that transports persons and belongings, depending on the type and nature of the transport, fulfills the conditions for timely, safe and high-quality transport in road traffic, as well as for meeting the requirements regarding the emission of harmful substances and noise.",
+      "part15": "The inspection of vehicles on this basis is performed depending on the age of the vehicle as follows:",
+      "part16": "* for vehicles up to one year old - once, at the beginning of the period of use of the vehicle, and the certificate is issued with a validity of five years;",
+      "part17": "* for vehicles from one to two years old - once, at the beginning of the period of use of the vehicle, and the certificate is issued with a validity of four years;",
+      "part18": "* for vehicles between two and eight years old - every three years, and the certificate is issued with a validity of three years;",
+      "part19": "* for vehicles from eight to ten years old - every two years, and the certificate is issued with a validity of two years;",
+      "part20": "* for vehicles over ten years of age - every year, and the certificate is issued with a validity of one year.",
+      "part21": "Technical inspection of vehicles of all categories can be performed quickly, efficiently and reliably at all inspection stations in our network of business units on modern devices, with professional service and expert advice from friendly and qualified staff."
+    },
+
+    "cert": {
+      "part1": "The jobs we currently do in this area are:",
+      "part2": "- Type-in ​​and re-type chassis and engine number,",
+      "part3": "- Engine replacement,",
+      "part4": "- Change of body shape,",
+      "part5": "- Vehicle re-certification,",
+      "part6": "- Change of vehicle type,",
+      "part7": "- Minor dedicated modification of the cargo box,",
+      "part8": "- Installation of dual control system for driver training,",
+      "part9": "- Design of new vehicle structures (O1, O2 up to a total mass of 1500 kg without brake) ADR.",
+      "part10": "- For more information, contact authorized vehicle inspection personnel.",
+      "part11": "Vehicle certification",
+      "part12": "Visoko, Zenica, Tuzla",
+      "part13": "Person in charge: Nermin Nezir",
+      "part14": "Phone/Fax: 033/467-450",
+      "part15": "e-mail: certification@remis.ba",
+      "part16": "Vehicle certification in BiH Vehicle certification can most briefly be described as evaluating a vehicle's compliance with the prescribed requirements for it. On the basis of vehicle testing, a Certificate is issued confirming that the vehicle tested is in compliance with the requirements of the relevant regulation. The BiH Ministry of Communications and Transport has announced: \"Rulebook on Vehicle Certification and Conditions that Vehicle Certification Organizations Must Meet\", (BiH Official Gazette, 41/08) of 20 May 2008; (FBiH Official Gazette, 30/08) of 29 May 2008; The Rulebook defines the manner and procedure of certification of vehicles that are individually or serially manufactured, refurbished, repaired after serious traffic accidents, substantially improved, vehicles that change circuits and devices essential for safe traffic, vehicles used for the transport of dangerous goods and vehicles for the transport of perishable goods. The conditions to be fulfilled by the organizations involved in the certification of vehicles are also defined, as well as keeping records of certificates and certificates issued. Remodeling a vehicle is described as a change that: change the technical characteristics of the vehicle, add or remove certain circuits or devices, changing the original state or change the make, type and type of vehicle, change the body-chassis elements essential to secure the suspension elements and system control and transmission of basic circuits, control and braking systems, installs engines of another type, type and characteristics, installs devices for propulsion of vehicles with alternative fuels, etc. The structural and technical characteristics of vehicles and their assemblies and components must comply with the applicable national regulations and standards, and if the relevant national regulations are not adopted for the vehicles and their components and assemblies, then the international regulations or standards of the manufacturer shall apply. Similarly, if there are no manufacturer regulations, standards or norms for vehicles and their components and parts, then the usual rules of technology, or rules laid down by the Ministry of Communications and Transport, shall apply at the proposal of the certification bodies and in accordance with acceptable technical solutions. Certification consists of administrative, technical and testing tasks. Upon the establishment of the Network of Authorized Authorities, we expect significant participation in vehicle certification activities."
+    },
+
+    "homol": {
+      "part1": "The need for enhanced protection of the environment and road users by improving the quality of vehicles on the roads has led to the creation of certain directives and regulations that prescribe the technical requirements for vehicles in technologically advanced countries, which are becoming more and more stringent every year. The ultimate benefit of this process is for all road users, and especially customers who will consume vehicles that have been manufactured to an advanced standard. From 1 January 2011, all vehicles imported into Bosnia and Herzegovina, whether used or new, are subject to type approval.",
+      "part2": "Approval of a vehicle or parts and appliances of a vehicle involves testing and determining the conformity of the tested parts with the ECE Regulations or the EEC / EC Directives relating to the test part and a specific vehicle category.",
+      "part3": "BiH Ministry of Communications and Transport has published \"Rulebook on type approval of vehicles, parts and accessories of vehicles\" which prescribes downloading 94 for new and 93 ECE regulations for used vehicles (not how the public perceives checking only emission standards for engine components - which is only 1 of over 90 items) and based on them adopted the \"Decision on the lowest technical requirements\".",
+      "part4": "An indicative list of vehicles which should meet the Euro 3 standard has been issued by the Surveillance Institution (Approval Consortium). We do not assume any liability that may arise from using the same.",
+      "part5": "Approval consists of administrative and technical tasks, as well as testing and checking.",
+      "part6": "If the inspection of the documentation and the vehicle determines compliance with the regulations, you will be issued through the technical service Certificate of Conformity of the individual vehicle.",
+      "part7": "The certificate of conformity shall be presented at the technical inspection at the first registration of the vehicle in Bosnia and Herzegovina.",
+      "part8": "If the inspection of the documentation and the vehicle reveals that the vehicle does not comply with the provisions of the Regulation, the approval authority may give a period of 30 days to remedy the defects.",
+      "part9": "Notification shall be given to the customs office. If the deficiencies are irreversible, the Ministry shall issue a decision denying the issuance of a Certificate of Compliance.",
+      "part10": "In special cases, a simplified type-approval procedure called Vehicle Identification and Technical Assessment is carried out",
+      "part11": "MKiT BiH, the Institution for Supervision, Technical Service and authorized representatives of the vehicle importers are involved in the process.",
+      "part12": "* Note: The published information is for informational purposes only and is subject to change. Correct and up-to-date information will be obtained from authorized professional staff employed by the Approval Services."
+    },
+
+    "reg": {
+      "part1": "In order to get involved in traffic, except that the vehicle must be technically correct - as evidenced by a technical inspection, the vehicle must also be registered.",
+      "part2": "The business of registration and deregistration of vehicles, the appearance of official forms are prescribed by the \"Regulations on vehicle registration\".",
+      "part3": "The vehicle is registered by entering the registration plate and certain information about the vehicle, the owner of the vehicle and the holder of the registration certificate in the register of the registered vehicles, and by issuing the corresponding documents for the vehicle, license plates and sticker.",
+      "part4": "The first registration of the vehicle must be carried out with the organizational unit of the Ministry of the Interior according to the place in which the vehicle owner is domiciled or has its seat.",
+      "part5": "It all begins with the application for the registration of vehicles for the first time in BiH on the prescribed form, which must be enclosed with:",
+      "part6": "- proof of ownership of the vehicle;",
+      "part7": "- proof of the performed obligations prescribed by the Law and regulations made pursuant to the Law, which are related to the use of vehicles;",
+      "part8": "- compulsory vehicle insurance policy;",
+      "part9": "- proof of customs procedure carried out;",
+      "part10": "- proof of payment of prescribed fees for forms and license plates issued when registering a vehicle;",
+      "part11": "- proof of technical correctness of the vehicle, which cannot be older than 30 days in electronic form;",
+      "part12": "- confirmation of the authorized technical inspection station on the fulfillment of the technical-exploitation conditions for performing the registered activity (in writing) in case the vehicle is used for performing the same;",
+      "part13": "- test certificate and certificate if the vehicle is individually manufactured or refitted;",
+      "part14": "- proof of identity of the vehicle owner;",
+      "part15": "- proof of the approved activity and proof of a certain legal entity or tax identification number, unless valid evidence for that year is already in the records of the competent authority;",
+      "part16": "- proof of registration of activities in Bosnia and Herzegovina and a certificate of employment in a foreign representative office issued by a foreign representative office and signed by a person authorized to sign on behalf of the representative office - for foreigners in cultural missions and foreign correspondents as well as permanent foreign correspondents;",
+      "part17": "- evidence of technical correctness of gas appliances for gas powered vehicles;",
+      "part18": "- proof of payment of the technical inspection service in accordance with the valid price list;",
+      "part19": "- proof of payment of the compulsory insurance policy.",
+      "part20": "Vehicle registration ends with the issuance of a vehicle ownership certificate, registration certificate, license plates and a sticker sticker.",
+      "part21": "In relation to the first registration, the registration renewal procedure is performed entirely on the STP after the technical inspection has been completed by issuing or filling in the relevant data in the vehicle ownership certificate, issuing the registration certificate, license plates and scrapers after it is determined that all the prerequisites are met (paid statutory benefits and proof of payment of the compulsory insurance policy)."
+    },
+
+    "enr": {
+      "part1": "An engine identification number is a structural combination of signs placed by the manufacturer on the engine for its identification. The engine number is typed on the engine block or written on the manufacturer's chart mounted on the engine.",
+      "part2": "The need for verification of numbers arises when the vehicle owner or other authority finds that some of the engine number information in the vehicle identification document has been omitted or misspelled.",
+      "part3": "The service is charged according to the price list prescribed by the Company's Regulations."
+    },
+
+    "coo": {
+      "part1": "We mediate in the administrative affairs of changing the ownership of vehicles on the basis of the \"Vehicle Registration Regulations\".",
+      "part2": "A request for a change of ownership of a vehicle shall be submitted to the competent authority on the prescribed form, together with:",
+      "part3": "proof of change of ownership: a vehicle sale invoice issued in the name of the buyer of the vehicle or a purchase contract or gift contract (members of the immediate family only) or a record of the auction or other valid proof of ownership;",
+      "part4": "a document proving ownership (vehicle ownership certificate, traffic permit);",
+      "part5": "proof of identity of the vehicle owner;",
+      "part6": "compulsory vehicle insurance policy;",
+      "part7": "proof of the approved activity and proof of a certain legal entity or tax identification number, unless valid evidence for that year is already in the records of the competent authority;",
+      "part8": "proof of registration of activities in Bosnia and Herzegovina and a certificate of employment in a foreign representative office issued by a foreign representative office and signed by a person authorized to sign on behalf of the representative office - for foreigners in cultural missions and foreign correspondents as well as permanent foreign correspondents;",
+      "part9": "confirmation of the authorized technical inspection station on the fulfillment of the technical-exploitation conditions for performing the registered activity (in written or electronic form) in case the vehicle is used for performing the same;",
+      "part10": "proof of payment of the prescribed fees for the forms of the Certificate of Registration and the Certificate of Ownership of the Vehicle if it is issued;",
+      "part11": "proof of payment of the prescribed license plate fees in the event that the vehicle does not have license plates bearing the international BiH mark.",
+      "part12": "For vehicles with expired registration, the following shall also be enclosed with the following evidence:",
+      "part13": "proof of the performed obligations prescribed by the Law and regulations made pursuant to the Law, which are related to the use of vehicles;",
+      "part14": "proof of technical correctness of the vehicle, which cannot be older than 30 days in electronic form;",
+      "part15": "confirmation of the authorized technical inspection station on the fulfillment of the technical-exploitation conditions for performing the registered activity (in writing) in case the vehicle is used for performing the same;",
+      "part16": "test certificate and certificate if the vehicle is individually manufactured or refitted;",
+      "part17": "evidence of technical correctness of gas appliances for gas powered vehicles;",
+      "part18": "proof of payment of the technical inspection service in accordance with the valid price list;",
+      "part19": "proof of payment of the compulsory insurance policy.",
+      "part20": "The registration of a vehicle is done by issuing or entering data in the certificate of ownership of the vehicle, issuing a certificate of registration and issuing registration plates bearing the international BiH mark if they have not already been issued, as well as a sticker sticker if the validity of the registration has expired.",
+      "part21": "If the change of ownership of the vehicle is proved by a contract concluded between natural persons, the signature of these persons is verified by the competent authority, and if the contract is concluded between legal persons, the signatures shall be certified by the legal persons concluding the contract. When the vehicle is sold through an agent (commissioner), the contract and account are certified by the commissioner.",
+      "part22": "If the owner of the vehicle changes during the registration period, a registration certificate shall be issued with the validity of the replaced document.",
+      "part23": "The owner of a registered vehicle is obliged to deregister the vehicle for the purpose of sale or transfer of ownership rights in another way to the competent authority with which the vehicle is kept on record."
+    },
+
+    "tacho": {
+      "part1": "A tachograph is a monitoring device that provides a record of the speed and distance traveled of the vehicle, recording the driving time of the crew members, the time spent performing non-vehicle professional activities, and rest time. What such must have a type approval (stamp) issued by the competent institution.",
+      "part2": "The actions and obligations related to tachographs are regulated by the \"Law on Working Hours, Compulsory Holidays of Mobile Workers and Road Recording Devices\", \"Rulebook on the total duration of motor vehicle driving time\", \"Rulebook on dimensions, total mass and axle load of vehicles , on the devices and equipment that vehicles must have and on the basic conditions that road traffic devices and equipment must meet. \"",
+      "part3": "Vehicles whose maximum permissible mass with a trailer vehicle is greater than 3.5 tons and buses designed or permanently adapted to carry more than nine passengers, including the driver, must have a tachograph fitted, except in some cases excepted by law.",
+      "part4": "An analogue tachograph is a device in road traffic for recording speed and distance traveled, as well as working and rest times, where data is recorded on a tachograph sheet on which the top of the printer records by mechanical pressing of the tachograph sheet, and which enables data recording in one day.",
+      "part5": "A digital tachograph is a road transport device for recording speed and distance traveled, as well as working and rest times, where data is stored in working memory and a memory card, which enables the storage of data for a period of 365 days. New vehicles registered for the first time in Bosnia and Herzegovina after June 16, 2010 must have a digital tachograph installed.",
+      "part6": "The tachograph is subject to regular testing every year to determine conformity to type approval and correctness.",
+      "part7": "We currently offer analogue tachograph calibration services on individual STPs within the network.",
+      "part8": "The field of activation and calibration of digital tachographs has not yet been systematically addressed in Bosnia and Herzegovina. Upon the establishment of the system, we expect more serious participation in the network of authorized workshops."
+    }
+  },
+
+  "FormData": {
+    "workplace": "Choose a workplace where You apply",
+    "time": "Insert your appropriate time",
+    "mailType": "Select your mail type"
+  }
+}

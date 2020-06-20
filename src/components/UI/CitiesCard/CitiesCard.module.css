@@ -1,0 +1,73 @@
+.CitiesCard {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 20px;
+  height: 380px;
+  width: 280px;
+  margin: 20px 10px;
+  cursor: pointer;
+}
+
+.CitiesCard:hover {
+  height: 500px;
+  width: 400px;
+  transition: all 1s ease;
+}
+
+.CitiesCard a {
+  background-color: #770303;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  font-weight: bold;
+  height: 280px;
+  width: 180px;
+  opacity: 0.7;
+}
+
+.CitiesCard a:hover {
+  background-color: #770303;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: all 0.8s ease;
+  opacity: 0;
+}
+
+.CitiesCard a p {
+  font-size: 20px;
+  color: #770303;
+  text-shadow: -1px -1px 3px white, 1px 1px 3px white, 1px 0 3px white,
+    0 -1px 3px white;
+}
+
+@media (max-width: 900px) {
+  .CitiesCard {
+    height: 280px;
+    width: 180px;
+    cursor: pointer;
+    margin: 10px 5px;
+  }
+  .CitiesCard:hover {
+    height: 400px;
+    width: 300px;
+    transition: all 1s ease;
+  }
+
+  .CitiesCard a {
+    font-weight: bold;
+    height: 200px;
+    width: 140px;
+  }
+}

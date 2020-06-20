@@ -1,0 +1,67 @@
+.Basic {
+  height: 70%;
+  width: 10px;
+  box-sizing: border-box;
+  background-color: #444141;
+  margin: 100px auto;
+}
+
+.FrontBasic {
+  margin: auto;
+  margin-bottom: -100px;
+  height: 10px;
+  width: 50%;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: #444141;
+}
+
+.BackBasic {
+  margin: auto;
+  margin-top: -100px;
+  height: 10px;
+  width: 50%;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: #444141;
+}
+
+.FrontWheelLeft {
+  display: inline-block;
+  border-radius: 5px;
+  margin-right: 20%;
+  margin-bottom: -70px;
+  height: 120px;
+  width: 70px;
+  background: linear-gradient(#575454, #181717);
+}
+
+.FrontWheelRight {
+  display: inline-block;
+  border-radius: 5px;
+  margin-left: 20%;
+  margin-bottom: -70px;
+  height: 120px;
+  width: 70px;
+  background: linear-gradient(#575454, #181717);
+}
+
+.BackWheelLeft {
+  display: inline-block;
+  border-radius: 5px;
+  margin-top: -67px;
+  margin-right: 20%;
+  height: 120px;
+  width: 70px;
+  background: linear-gradient(#575454, #181717);
+}
+
+.BackWheelRight {
+  display: inline-block;
+  border-radius: 5px;
+  margin-top: -67px;
+  margin-left: 20%;
+  height: 120px;
+  width: 70px;
+  background: linear-gradient(#575454, #181717);
+}

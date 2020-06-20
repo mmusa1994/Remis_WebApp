@@ -1,0 +1,123 @@
+.Main {
+  margin-top: 10px;
+  padding: 10px 0 0 0;
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000e6;
+}
+.Main h2 {
+  color: #cabfbf;
+}
+
+.Partners {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  width: 100%;
+}
+.Partners a {
+  margin: 10px;
+  padding: 0;
+  filter: grayscale(1);
+}
+.Partners a:hover {
+  transition: all 0.5s ease;
+  filter: none;
+}
+.Partners img {
+  height: auto;
+  width: 200px;
+}
+.Partners .vins {
+  height: auto;
+  width: 150px;
+}
+
+.Main i {
+  padding: 10px;
+  font-size: 30px;
+}
+.Text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.Text1 {
+  margin-top: 0;
+  color: grey;
+}
+.Text1 a {
+  margin: auto 5px;
+  text-decoration: none;
+  color: white;
+}
+.Text1 a:hover {
+  color: #7c0101;
+}
+
+.Contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.Contact i {
+  color: #70700d;
+}
+.Socials i {
+  color: #353131;
+  padding: 5px;
+  font-size: 40px;
+}
+.Socials i:hover {
+  color: #7c0101;
+}
+
+.Bottom {
+  margin-top: 10px;
+  height: auto;
+  width: 100%;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #353131;
+  border-top: 1px solid grey;
+}
+@media (max-width: 1140px) {
+  .Partners {
+    height: auto;
+  }
+  .Partners a:hover {
+    padding: 5px;
+  }
+  .Partners img {
+    width: 100px;
+  }
+  .Partners .vins {
+    width: 100px;
+  }
+  .Text {
+    padding: 5px;
+  }
+}
+
+@media (max-width: 360px) {
+  .Main {
+    width: 100%;
+  }
+  .Partners {
+    height: auto;
+  }
+}

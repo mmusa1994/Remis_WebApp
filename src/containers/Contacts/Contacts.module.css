@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+}
+.Intro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 5px;
+  width: 80%;
+  margin: auto;
+}
+.Intro:hover {
+  background-color: #ece9e9;
+  box-shadow: 0 3px 8px 10px #631111;
+  transition: all 0.5s ease;
+}
+.Intro strong {
+  font-size: 20px;
+}
+.Intro div {
+  margin: 3px auto;
+}
+.Mail {
+  display: inline-block;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid #631111;
+  border-radius: 0px;
+  color: #631111;
+  box-shadow: 0 2px 3px #7c0101;
+  text-align: center;
+  margin: 5px 10px;
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.7;
+}
+.Mail:hover {
+  opacity: 1;
+}
+
+.Content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 10px;
+  margin: 10px auto;
+}
+.Content .Mail {
+  margin: 30px 0 0 0;
+}
+.Content:hover {
+  box-shadow: 0 3px 8px 10px #631111;
+  transition: all 0.5s ease;
+}

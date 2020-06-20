@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+.Wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+
+.Head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: start;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 10px;
+  width: 80%;
+}
+.Head:hover {
+  background-color: #ece9e9;
+  box-shadow: 0 3px 8px 10px #631111;
+  transition: all 0.5s ease;
+}
+.HeadData {
+  margin: 0;
+  padding: 10px auto;
+}
+.tech {
+  height: auto;
+  width: 300px;
+}
+.Main {
+  width: 80%;
+  text-align: start;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 10px;
+  margin: 10px auto;
+}
+.Main:hover {
+  background-color: #ece9e9;
+  box-shadow: 0 3px 8px 10px #631111;
+  transition: all 0.5s ease;
+}
+
+@media (max-width: 600px) {
+  .HeadData {
+    font-size: 15px;
+  }
+  .tech {
+    display: none;
+  }
+}

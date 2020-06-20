@@ -1,0 +1,96 @@
+.Visual {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  min-height: 900px;
+  height: auto;
+  width: 99%;
+  padding: 50px;
+  margin: auto;
+  background-image: url("car-data.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  box-shadow: 0 50px 100px #3a4746;
+  border-top: 5px solid #78bad4;
+}
+.Visual:hover {
+  border-top: 5px solid #640564;
+  transition: all 0.8s ease;
+}
+
+.Visual a {
+  font-family: Trattatello;
+  text-decoration: none;
+  color: white;
+  font-size: 50px;
+  margin: 50px;
+  padding: 10px;
+  border-bottom: 4px solid #78bad4;
+  border-radius: 24% 41% 31% 9%/44% 6% 32% 40%;
+  text-shadow: -2px -2px 3px #78bad4, 2px 2px 3px #78bad4, 2px 2px 3px #78bad4,
+    2px -4px 3px #78bad4;
+}
+.Visual a:hover {
+  color: white;
+  border-bottom: 4px solid #640564;
+  text-shadow: -2px -2px 3px purple, 2px 2px 3px purple, 2px 2px 3px purple,
+    2px -4px 3px purple;
+  background: linear-gradient(#000000, #634a63);
+  transition: all 0.8s ease;
+}
+.RedirectMessage {
+  text-align: center;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 10px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: auto;
+  width: 50%;
+  margin: auto;
+  color: #c00909;
+}
+.RedirectMessage:hover {
+  box-shadow: 0 5px 10px 10px #631111;
+  transition: all 0.5s ease;
+}
+.RedirectMessage a {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid #aa0505;
+  border-radius: 0px;
+  color: #7c0101;
+  box-shadow: 0 2px 3px #7c0101;
+  text-align: center;
+  margin: 10px 0px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.RedirectMessage a:hover {
+  box-shadow: 0 2px 5px 5px #631111;
+  transition: all 0.5s ease;
+}
+
+@media (max-width: 900px) {
+  .Visual {
+    height: auto;
+    width: 99%;
+  }
+  .RedirectMessage {
+    font-size: 15px;
+  }
+  .RedirectMessage a {
+    font-size: 15px;
+  }
+  .Visual a {
+    font-size: 30px;
+  }
+}

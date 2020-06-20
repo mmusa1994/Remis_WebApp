@@ -1,0 +1,106 @@
+.Toolbar {
+  height: 76px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  z-index: 90;
+  margin: auto;
+  background-color: white;
+  opacity: 0.85;
+  font-size: 13px;
+}
+.Toolbar nav {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+}
+.Toolbar span {
+  margin-right: 20px;
+}
+.Toolbar:hover {
+  border-bottom: 1px solid grey;
+  box-shadow: 0 3px 5px #7c0101;
+  transition: all 0.3s ease;
+}
+.Toolbar .LanguageFlags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  background-color: white;
+}
+.Toolbar .LanguageFlags button {
+  border: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background: none;
+  padding: 0px;
+  margin: 5px;
+  cursor: pointer;
+}
+.Toolbar .LanguageFlags button:hover {
+  filter: none;
+}
+.Toolbar .LanguageFlags .deactivate {
+  filter: grayscale(1);
+}
+.Toolbar .LanguageFlags .activate {
+  filter: none;
+}
+.Toolbar .LanguageFlags img {
+  height: auto;
+  width: 35px;
+}
+
+/* .Toolbar .Logo:hover {
+  background: linear-gradient(#ffffff, #f3caca);
+  border-bottom: 4px solid #aa0505;
+  width: 240px;
+} */
+
+.rSide {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: auto 5px;
+}
+.rSide span {
+  margin: 0;
+}
+.rSide i {
+  margin-right: 5px;
+}
+
+@media (max-width: 1250px) {
+  .DesktopOnly {
+    display: none;
+  }
+  .rSide .AuthDeskOnly {
+    display: none;
+  }
+  .rSide i {
+    margin-right: 0;
+  }
+}
+@media (max-width: 1040px) {
+  .Toolbar .LanguageFlags {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  .Logo {
+    display: none;
+  }
+}

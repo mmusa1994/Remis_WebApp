@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+
+.BackgroundWrapper {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 80%;
+  margin: 0 auto 20px auto;
+}
+.BackgroundImage {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-end;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 350px;
+  width: 69%;
+  border: 1px solid #7c0101;
+  color: #7c0101;
+  box-shadow: 0 5px 10px #7c0101;
+}
+.BackgroundImage span {
+  padding: 30px 0px;
+  opacity: 0.8;
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+  text-align: start;
+  text-shadow: -2px -2px 5px #7c0101, 2px 2px 5px #7c0101, 2px 0 5px #7c0101,
+    0 -2px 5px #7c0101;
+  margin: 0 0 0 5px;
+}
+.BackgroundImage a {
+  display: inline-block;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  background: white;
+  border: 1px solid #7c0101;
+  color: #7c0101;
+  box-shadow: 0 2px 3px #7c0101;
+  text-align: center;
+  margin: 0 5px 10px 5px;
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.BackgroundImage a:hover {
+  opacity: 1;
+}
+.BackgroundImage .a1 {
+  color: white;
+  text-shadow: -2px -2px 5px #7c0101, 2px 2px 5px #7c0101, 2px 0 5px #7c0101,
+    0 -2px 5px #7c0101;
+  background: linear-gradient(#f8f8f8, #7c0101);
+}
+.MoreInformation {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  height: 350px;
+  width: 30%;
+  border: 1px solid #7c0101;
+  color: white;
+  box-shadow: 0 5px 10px #7c0101;
+  background-color: #7c0101;
+}
+.MoreInformation a {
+  margin: 0;
+  padding: 0;
+}
+
+.MoreInformation p {
+  font-size: 20px;
+  padding: 0 10px;
+  font-weight: bold;
+  color: white;
+}
+
+.MoreInformation img {
+  width: 300px;
+  height: auto;
+}
+@media (max-width: 900px) {
+  .BackgroundTitle {
+    width: 80%;
+    margin: 0 0 20px 10%;
+  }
+  .BackgroundImage {
+    width: 100%;
+    height: auto;
+  }
+  .BackgroundImage a {
+    display: inline-block;
+    font-size: 8px;
+  }
+  .BackgroundImage span {
+    font-size: 40px;
+  }
+  .MoreInformation {
+    display: none;
+  }
+}
+@media (max-width: 1140px) {
+  .BackgroundTitle {
+    width: 80%;
+    margin: 0 0 20px 10%;
+  }
+  .BackgroundImage {
+    width: 100%;
+    height: auto;
+  }
+  .BackgroundImage a {
+    display: inline-block;
+    font-size: 8px;
+  }
+  .MoreInformation {
+    display: none;
+  }
+}

@@ -1,0 +1,100 @@
+.slide-container {
+  margin: auto;
+  margin-bottom: 10px;
+  min-height: 500px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px;
+  font-family: "Righteous", cursive;
+}
+
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  flex-direction: column;
+  height: 800px;
+}
+.each-slide h1 {
+  opacity: 0.8;
+  font-size: 80px;
+  font-weight: bold;
+  color: white;
+  text-shadow: -2px -2px 5px #7c0101, 2px 2px 5px #7c0101, 2px 0 5px #7c0101,
+    0 -2px 5px #7c0101;
+}
+.buttonContainer {
+  padding-left: 0;
+}
+.each-slide a {
+  display: inline-block;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 500;
+  box-sizing: border-box;
+  background: white;
+  border-radius: 0px;
+  color: #aa0505;
+  box-shadow: 0 2px 3px #7c0101;
+  text-align: center;
+  margin: 5px 10px;
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.each-slide .a1 {
+  color: white;
+  text-shadow: -2px -2px 5px #7c0101, 2px 2px 5px #7c0101, 2px 0 5px #7c0101,
+    0 -2px 5px #7c0101;
+  background: linear-gradient(#f8f8f8, #6d1010);
+}
+
+.each-slide a:hover {
+  opacity: 1;
+  transition: opacity 300ms ease-in;
+}
+.each-fade {
+  display: flex;
+}
+
+.each-fade .image-container {
+  width: 75%;
+  overflow: hidden;
+}
+
+.each-fade .image-container img {
+  width: 100%;
+}
+
+.each-fade h2 {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  background: #adceed;
+}
+@media (max-width: 1250px) {
+  .each-slide h1 {
+    font-size: 60px;
+  }
+  .each-slide a {
+    font-size: 17px;
+  }
+}
+@media (max-width: 900px) {
+  .slide-container {
+    min-height: 0px;
+  }
+  .each-slide h1 {
+    font-size: 30px;
+  }
+  .each-slide > div {
+    height: 300px;
+  }
+  .each-slide a {
+    font-size: 10px;
+    opacity: 1;
+  }
+}

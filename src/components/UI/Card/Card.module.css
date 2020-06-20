@@ -1,0 +1,115 @@
+* {
+  box-sizing: border-box;
+}
+.Card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 250px;
+  box-shadow: 0 2px 3px #aa0505;
+  padding: 5px;
+  margin: 5px;
+}
+.Card .ImgContainer {
+  position: relative;
+  overflow: hidden;
+  align-self: center;
+  margin-top: 10px;
+  height: 180px;
+}
+.Card .ImgContainer .template {
+  width: 100%;
+  object-fit: cover;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+.Card .ImgContainer .real {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  opacity: 0;
+}
+.Card .ImgContainer .real:hover {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+  opacity: 1;
+}
+.Card h3 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.Card button {
+  padding: 5px;
+  border: 1px solid #aa0505;
+  color: #aa0505;
+  cursor: pointer;
+  opacity: 0.9;
+}
+.Card button:hover {
+  opacity: 1;
+}
+.Card button:active {
+  background: linear-gradient(#ffffff, #f3caca);
+}
+
+/* Contacts */
+.Contacts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  padding: 5px;
+  margin: 5px;
+  font-size: 20px;
+}
+.Card .Contacts i {
+  margin: 5px 10px;
+  font-size: 20px;
+}
+.Card .Contacts .Person {
+  margin: 5px auto;
+  font-size: 20px;
+}
+.Card .Contacts .Phone {
+  margin: 5px auto;
+  font-size: 20px;
+}
+.Card .Contacts .Location {
+  margin: 5px 2px;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.Card .Contacts a {
+  color: #000000;
+  text-decoration: none;
+  font-size: 17px;
+}
+.Card .Contacts a:hover {
+  color: #6e0606;
+  padding: 5px;
+  font-size: 20px;
+  transition: all 0.8s ease;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px 3px #6e0606;
+}
+
+@media (max-width: 500px) {
+  .Card .ImgContainer .real {
+    opacity: 1;
+  }
+}

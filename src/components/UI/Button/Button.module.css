@@ -1,0 +1,61 @@
+.Button {
+  background-color: transparent;
+  border: none;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  font: inherit;
+  padding: 10px;
+  margin: 2px;
+  font-weight: bold;
+}
+.Button:disabled {
+  color: #ccc;
+  border-color: #ccc;
+  cursor: not-allowed;
+}
+
+.Success {
+  color: #79af2e;
+  border: 1px solid #79af2e;
+}
+.Success:hover {
+  color: #4e6132;
+  border: 1px solid #3f5e13;
+}
+.Success:active {
+  color: white;
+  background: linear-gradient(#d5dace, #cae4a5);
+  text-shadow: -2px -2px 5px #79af2e, 2px 2px 5px #79af2e, 2px 0 5px #79af2e,
+    0 -2px 5px #79af2e;
+}
+
+.Danger {
+  color: #b1180e;
+  border: 1px solid #b1180e;
+}
+.Danger:hover {
+  color: #640b05;
+  border: 1px solid #520f0a;
+}
+.Danger:active {
+  color: white;
+  background: linear-gradient(#ffffff, #f3caca);
+  text-shadow: -2px -2px 5px #7c0101, 2px 2px 5px #7c0101, 2px 0 5px #7c0101,
+    0 -2px 5px #7c0101;
+}
+
+.Default {
+  color: #aa0505;
+  border: 1px solid #aa0505;
+}
+.Default:hover {
+  color: #690404;
+  border: 1px solid #690404;
+}
+.Default:active {
+  color: white;
+  background: linear-gradient(#ffffff, #f3caca);
+  text-shadow: -2px -2px 5px #7c0101, 2px 2px 5px #7c0101, 2px 0 5px #7c0101,
+    0 -2px 5px #7c0101;
+}

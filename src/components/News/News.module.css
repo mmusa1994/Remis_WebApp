@@ -1,0 +1,63 @@
+.NewsBox {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #7c0101;
+  color: white;
+  height: 300px;
+  width: 380px;
+  margin: 5px 10px;
+  padding: 5px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.NewsBox a {
+  text-decoration: none;
+  color: white;
+  margin: 0 0 10px 0;
+}
+.NewsBox a:hover {
+  color: white;
+  text-shadow: -1px -1px 2px #aaa9a9, 1px 1px 2px #aaa9a9, 1px 1px 2px #aaa9a9,
+    -1px -1px 2px #aaa9a9;
+}
+.NewsBox img {
+  height: 40%;
+  width: 60%;
+  margin-bottom: -27%;
+  box-sizing: border-box;
+  border-bottom: 5px solid #7c0101;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  box-shadow: 0px 5px 10px #7c0101;
+}
+.NewsBox .artText {
+  text-align: start;
+  margin-top: -20px;
+  margin-left: 10px;
+}
+
+@media (max-width: 1250px) {
+  .NewsBox a {
+    margin: 0;
+  }
+  .NewsBox img {
+    height: 30%;
+    width: 50%;
+    margin-bottom: 0;
+    box-sizing: border-box;
+    border-bottom: 3px solid white;
+    box-shadow: 1px 2px 5px white;
+  }
+}
+@media (max-width: 400px) {
+  .NewsBox {
+    height: 230px;
+    width: 280px;
+  }
+  .NewsBox img {
+    display: none;
+  }
+}

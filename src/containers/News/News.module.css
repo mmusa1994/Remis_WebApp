@@ -1,0 +1,25 @@
+.News {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 5px;
+  width: 80%;
+  margin: auto;
+}
+.News:hover {
+  background-color: #ece9e9;
+  box-shadow: 0 3px 8px 10px #631111;
+  transition: all 0.5s ease;
+  margin: 20px auto;
+}
+
+@media (max-width: 900px) {
+  .News {
+    border: none;
+    box-shadow: none;
+    width: 100%;
+  }
+}

@@ -1,0 +1,22 @@
+.VehicleTechnicalInspection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  text-align: start;
+  border: 1px solid #eee;
+  box-shadow: 0 5px 10px #631111;
+  padding: 10px;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.VehicleTechnicalInspection p {
+  font-size: 20px;
+  color: #535252;
+}
+
+.VehicleTechnicalInspection:hover {
+  box-shadow: 0 3px 8px 10px #631111;
+  transition: all 0.5s ease;
+}

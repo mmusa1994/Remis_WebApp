@@ -1,0 +1,205 @@
+.Wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0 15px;
+}
+
+/* Intro text */
+.Intro {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  /* background-color: #ece9e9; */
+  padding: 10px;
+  height: auto;
+}
+.Intro img {
+  height: 350px;
+  margin: 30px;
+  box-sizing: border-box;
+  border-top: 8px solid #5a0505;
+  box-shadow: 0 10px 15px #5a0505;
+}
+.Intro .Desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 30px;
+}
+.Intro .Desc h1 {
+  font-size: 40px;
+}
+.Intro .Desc .Text {
+  text-align: start;
+  font-size: 20px;
+}
+.Intro .Desc a {
+  display: inline-block;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid #aa0505;
+  border-radius: 0px;
+  color: #aa0505;
+  box-shadow: 0 2px 3px #7c0101;
+  text-align: center;
+  margin: 10px 0px;
+  text-decoration: none;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.Intro .Desc a:hover {
+  opacity: 1;
+}
+
+/* Stock */
+.Stock {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 10px 0 40px 0;
+}
+
+/* ContactForm */
+.ContactForm {
+  /* background-color: #ece9e9; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+  margin-bottom: 10px;
+  padding: 30px;
+}
+.ContactForm a {
+  font-size: 45px;
+  text-decoration: none;
+  color: black;
+}
+.ContactForm span {
+  font-weight: bold;
+  font-size: 40px;
+  height: 100%;
+  width: 100%;
+}
+.ContactForm img {
+  height: 70%;
+  width: 60%;
+}
+.ContactForm .Informations {
+  display: block;
+  float: left;
+  padding: 0;
+  margin: 0;
+}
+
+.ContactForm .Info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: grey;
+}
+.ContactForm .Info:hover {
+  color: #7c0101;
+  cursor: grab;
+}
+.ContactForm .Info i {
+  color: #7c0101;
+  padding: 0 8px 0 0;
+}
+.ContactForm .DescForm {
+  text-align: start;
+  float: left;
+  padding-right: 10px;
+}
+.ContactForm .DescForm .Text {
+  width: 80%;
+  font-size: 20px;
+}
+.ContactForm .MobileOnly {
+  display: none;
+}
+
+/* Cities */
+.Cities {
+  /* background-color: #222020; */
+  margin: auto;
+  padding: 5px;
+  height: 500px;
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow-x: scroll;
+}
+
+@media (max-width: 1140px) {
+  .Intro .Desc .Text {
+    text-align: start;
+    font-size: 15px;
+  }
+  .Intro .Desc h1 {
+    font-size: 30px;
+  }
+  .Stock {
+    margin: 10px 0 0px 0;
+  }
+  .ContactForm {
+    margin-top: 20px;
+    padding: 10px;
+    width: 100%;
+  }
+  .ContactForm .MobileOnly {
+    display: block;
+    font-size: large;
+  }
+  .ContactForm .DescForm {
+    display: none;
+  }
+  .ContactForm .ConForMail {
+    width: 100%;
+  }
+}
+
+@media (max-width: 900px) {
+  .Intro img {
+    display: none;
+  }
+  .Intro .Desc .Text {
+    text-align: start;
+    font-size: 12px;
+  }
+  .Cities {
+    margin: 10px auto;
+    padding: 5px;
+    height: 380px;
+  }
+}
+
+@media (max-width: 400px) {
+  .Intro .Desc .Text {
+    text-align: start;
+    font-size: 10px;
+  }
+  .Intro .Desc h1 {
+    font-size: 20px;
+  }
+  .ContactForm {
+    padding: 0px;
+    width: 100%;
+  }
+}

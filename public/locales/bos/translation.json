@@ -1,0 +1,232 @@
+{
+  "Navigation": {
+    "Home": "Početna",
+    "About Us": "O nama",
+    "Services": "Usluge",
+    "News": "Vijesti",
+    "Branches": "Poslovnice",
+    "Contacts": "Kontakti",
+    "Visual Car Data": "Vizuelne karakteristike auta",
+    "Apply for Technical Inspection": "Apliciraj za tehnički pregled",
+    "Authentication": "Prijavi se",
+    "Logout": "Odjavi se",
+
+    "Dropdown": {
+      "vti": "Tehnički pregled vozila",
+      "crt": "Certifikacija",
+      "hom": "Homologacija",
+      "vr": "Registracija vozila",
+      "coo": "Promjena vlasništva",
+      "enr": "Očitavanje broja motora",
+      "tacho": "Tahografi"
+    }
+  },
+
+  "BcgTitle": {
+    "descpart1": "Za više informacija na temu",
+    "descpart2": "posjetite naš partnerski sajt ispod ",
+    "btn1": "VRATI SE NA POČETNU",
+    "btn2": "APLICIRAJ ZA TEHNIČKI PREGLED",
+    "messReg": "Izračunajte svoju registraciju na našem partnerskom sajtu ispod "
+  },
+
+  "Slideshow": {
+    "MORE": "VIŠE O...",
+    "APPLY FOR INSPECTION": "APLICIRAJ ZA TEHNIČKI PREGELD",
+    "pic1": "INTERAKTIVNO I MODERNO OKRUŽENJE",
+    "pic2": "KOMPJUTERIZOVAN PROCES",
+    "pic3": "DRUŠTVENO OSOBLJE",
+    "pic4": "SIGURNA VOŽNJA"
+  },
+
+  "Footer": {
+    "Licence": "LICENCIRANO OD",
+    "Partners": "PARTNERSTVO SA",
+    "Desc": "Trgovina na veliko, maloprodaja i usluge \"REMIS\" d.o.o. Visoko",
+    "Rights": "Sva prava zadržava"
+  },
+
+  "Home": {
+    "WelcomeHead": "Dobrodošli na oficijelnu stranicu Remis d.o.o.",
+    "CompanyDescription": "Danas sa zadovoljstvom primjećujemo da sa stotinjak zaposlenih  i našu mrežu poslovnih jedinica za pregled vozila i stanice za homologaciju i tehničke usluge za homologaciju i certifikata, prepoznatljiv je brend i asocijacija za kredibilna institucija u oblasti tehničkog pregleda i srodne službe u FBiH. S jedne strane, želimo da potvrdimo, zadržati i osigurati vodeću poziciju, a s druge strane, do pružamo našim cijenjenim klijentima i dugoročnim partnerima najviše kvaliteta i tretmana na tržištu Bosne i Hercegovine oni zaslužuju.",
+    "Make an appointment": "Zakaži sastanak",
+    "Contact Us": "Kontaktirajte nas",
+    "ContactInfo": "Godinama uzastopno broj 1 u broju tehničkih pregleda koji se provode na području Bosne i Hercegovine, zahvaljujući prije svega menadžerskom timu, koji zajedno sa ljubaznim i stručnim tehničkim kontrolorom i administrativnim radnicima zna kako steći, opravdati i održati povjerenje svojih klijenata.",
+
+    "NewsBox": {
+      "title1": "Remis d.o.o obnavlja vozni park",
+      "content1": "Uposlenici društva za zastupanje u osiguranju Vins d.o.o Visoko i tvrtke REMIS registrirali su se za tehničku…",
+      "title2": "Vins širi poslovnu mrežu",
+      "content2": "Osiguravajuće društvo Vins d.o.o. Radi se o izuzetno ekskluzivnom partneru međunarodne osiguravajuće kuće i evropskog brenda - GRAWE osiguranje, kao i partnera ...",
+      "title3": "Citroën je oficijelno auto tvrtke Remis d.o.o",
+      "content3": "Remis d.o.o. obnavlja vozni park u suradnji s Berlietinim zaposlenicima, društva za zastupanje osiguranja VIns d.o.o. Visoko i kompanije REMIS registrovane za pregled i registraciju vozila okupile su se…"
+    }
+  },
+
+  "DataForm": {
+    "Instruction": "Unesite vaše podatke",
+    "SuccMess": "Vaš mail je uspješno poslan!",
+    "SuccApp": "Vaša aplikacija je uspješna!",
+    "AuthMess": " Niste prijavljeni! Za korištenje ove opcije prijavite se na dugme ispod",
+    "sb": "POŠALJI",
+    "sa": "APLICIRAJ",
+    "Submit": "ULOGUJ SE",
+    "Switch": "PROMJENI NA",
+    "Switch1": " LOGIN",
+    "Switch2": " PRIJAVU"
+  },
+
+  "Contacts": {
+    "banner": "DIREKCIJA",
+    "tel": "Telefon",
+    "mess": "PIŠITE NAM",
+    "mailMess": "Kontaktirajte nas putem mail ili putem forme ispod!",
+    "branchMess": "Ako želite kontakte pojedniačnih poslovnica kliknite ovdje!",
+    "address": "Adresa"
+  },
+
+  "Card": {
+    "mess": "VIŠE O STANICI",
+    "bb": "NAZAD"
+  },
+
+  "AboutUs": {
+    "Intro": "\"REMIS\" d.o.o. osnovano je 1991. godine.",
+    "part1": "Od 2000. godine započeo je intenzivni razvoj kompanije i ulaganja u kompaniju, edukaciju osoblja, infrastrukturu i širenje spektra usluga na putu osvajanja tržišta.",
+    "part2": "Danas sa zadovoljstvom zapošljavamo stotinjak radnika i širimo našu mrežu poslovnih jedinica te stanice za tehnički pregled vozila, homologaciju i certifikacije te smo postali sinonim za prepoznatljiv  brend i udruženje kao vjerodostojna instituciju na terenu tehničkog pregleda i srodnih službi u FBiH.",
+    "part3": "U narednom periodu „REMIS“ d.o.o. usmjerio je ulaganje dodatnih sredstava u izgradnju novih objekata za tehnički pregled vozila i zapošljavanje mladih stručnjaka kako bi upotpunili svoje prisustvo u svim područjima interesa.",
+    "part4": "S jedne strane želimo potvrditi, zadržati i osigurati lidersku poziciju, a s druge pružiti našim cijenjenim klijentima i dugoročnim partnerima najvišu kvalitetu i tretman na tržištu Bosne i Hercegovine, kakvu zaslužuju.",
+    "part5": "Direktor: "
+  },
+  "Services": {
+    "vti": {
+      "part1": "Svrha tehničkog pregleda vozila je otkriti kvar vozila koji nije opasan za vas i okolinu te ga otkloniti prije nego se dogodi nešto loše.",
+      "part2": "Tehnički pregledi vozila provode se u skladu sa \"Zakonom o osnovama sigurnosti cestovnog prometa u Bosni i Hercegovini\", \"Pravilnikom o tehničkim pregledima vozila\", \"Pravilnikom o preventivnim tehničkim pregledima\" i \"Pravilnikom o tehničkim i koricničkim uvjetima\" u svrhu tehničke ispravnosti i ekološke sigurnosti vozila. Tehnički pregledi obavljaju se na motornim vozilima i prikolicama.",
+      "part3": "Tehnički pregled vozila podrazumijeva pregled opreme i uređaja vozila, te se provode kako bi se utvrdilo ima li vozilo propisane uređaje i opremu i da li je u ispravnom stanju, te ispunjava li druge propisane uvjete za sudjelovanje u saobraćaju, ",
+      "part4": "Po svojoj prirodi vrste tehničkog pregleda mogu biti:",
+      "part5": "Redoviti tehnički pregled, Vanredni tehnički pregled, Preventivni tehnički pregled, Utvrđivanje tehničkih i eksploatacijskih uvjeta.",
+      "part6": "Redoviti pregled vozila tehnički je pregled koji se provodi prije prve registracije vozila i tijekom obnove registracije vozila. Redovni tehnički pregledi vozila obavljaju se prije isteka registracije u roku od najviše 30 dana.",
+      "part7": "Vanredni tehnički pregled vozila izvodi se:",
+      "part8": "- na zahtjev ovlaštene službene osobe ako postoji osnovana sumnja da bi daljnja uporaba vozila ugrozila sigurnost u prometu ili da vozilo pretjerano zagađuje zrak ili stvara pretjeranu buku;",
+      "part9": "- u slučaju nužde",
+      "part10": "- nakon dovršetka ugradnje ili izmjene djela ili više njih čija tehnička ispravnost (kontrole, uređaji za zaustavljanje, spojni uređaji za vuču i vuču vozila, plinska instalacija i drugi uređaji važni za sigurnost na cestama) ovisi o ispravnosti vozila i certificiranju vozila u roku od 15 dana;",
+      "part11": "- na zahtjev vlasnika ili vozača vozila.",
+      "part12": "- Preventivni tehnički pregled može biti svakodnevan i periodičan.",
+      "part13": "- STP je podvrgnut povremenim preventivnim tehničkim pregledima, ovisno o starosti, tipu i namjeni vozila, u skladu s odredbama odgovarajućeg Pravilnika, u predviđenim vremenskim rokovima ili nakon što vozilo prijeđe propisani broj kilometara od datum prethodnog tehničkog pregleda.",
+      "part14": "Uspostavljanjem tehničkih i radnih uvjeta osigurava se da motorno vozilo i prikolica koji prevoze osobe i stvari, ovisno o vrsti i prirodi prijevoza, ispunjavaju uvjete za pravovremen, siguran i kvalitetan prijevoz u cestovnom prometu, kao i za zadovoljavanje zahtjeva u vezi s emisijom štetnih tvari i buke.",
+      "part15": "Temeljni pregled vozila provodi se ovisno o starosti vozila, kako slijedi:",
+      "part16": "* za vozila do jedne godine - jednom, na početku razdoblja uporabe vozila, a certifikat se izdaje s valjanošću od pet godina;",
+      "part17": "* za vozila od jedne do dvije godine - jednom, na početku razdoblja uporabe vozila, a certifikat se izdaje s valjanošću od četiri godine;",
+      "part18": "* za vozila između dvije i osam godina - svake tri godine, a potvrda se izdaje s valjanošću od tri godine;",
+      "part19": "* za vozila od osam do deset godina - svake dvije godine, a potvrda se izdaje s valjanošću od dvije godine;",
+      "part20": "* za vozila starija od deset godina - svake godine, a certifikat se izdaje s valjanošću od jedne godine.",
+      "part21": "Tehnički pregled vozila svih kategorija može se brzo, učinkovito i pouzdano obaviti na svim inspekcijskim stanicama naše mreže poslovnih jedinica na modernim uređajima, uz stručnu uslugu i stručni savjet ljubaznog i kvalificiranog osoblja."
+    },
+
+    "cert": {
+      "part1": "Poslovi koje trenutno obavljamo u ovom području su:",
+      "part2": "Zamjena  broja  šasije i broja motora,",
+      "part3": "Zamjena motora,",
+      "part4": "Preinake na vozilu",
+      "part5": "Ponovna potvrda vozila,",
+      "part6": "Promjena tipa vozila,",
+      "part7": "Manja namjenska preinake na vozilu,",
+      "part8": "Ugradnja dualnog sustava upravljanja za obuku vozača,",
+      "part9": "Dizajn novih konstrukcija vozila (O1, O2 do ukupne mase 1500 kg bez kočnice) ADR.",
+      "part10": "Za više informacija obratite se ovlaštenom osoblju za pregled vozila.",
+      "part11": "Certifikacija vozila",
+      "part12": "Visoko, Zenica, Tuzla",
+      "part13": "Odgovorna osoba: Nermin Nezir",
+      "part14": "Telefon/Fax: 033/467-450",
+      "part15": "e-mail: certification@remis.ba",
+      "part16": "Certifikacija vozila u BiH Potvrda o vozilu može se ukratko opisati kao procjena usklađenosti vozila s propisanim zahtjevima za njega. Na temelju ispitivanja vozila izdaje se Certifikat kojim se potvrđuje da je testirano vozilo u skladu sa zahtjevima odgovarajućeg propisa. Ministarstvo komunikacija i prometa BiH objavilo je: \"Pravilnik o certificiranju vozila i uvjetima koje organizacije za certificiranje vozila moraju ispunjavati\", (Službeni glasnik BiH, 41/08) od 20. svibnja 2008. godine; (Službene novine FBiH, 30/08.) Od 29. svibnja 2008. godine; Pravilnikom se definiraju način i postupak certificiranja vozila koja se pojedinačno ili serijski proizvode, preuređuju, popravljaju nakon teških prometnih nesreća, bitno poboljšavaju, vozila koja mijenjaju krugove i uređaji bitni za siguran promet, vozila koja se koriste za prijevoz opasnih tereta i vozila za prijevoz brzo pokvarljive robe. Definisani su i uslovi koje moraju ispuniti organizacije uključene u certificiranje vozila te vođenje evidencije izdatih certifikata i potvrda. Pregradnja vozila opisuje se kao promjena koja: promijenite tehničke karakteristike vozila, dodajte ili uklonite određene sklopove ili uređaje, promijenite izvorno stanje ili promijenite marku, tip i tip vozila, promijenite elemente karoserije karoserije neophodne za osiguranje elemenata ovjesa i kontrole sustava i prijenosa osnovnih sklopovi, upravljački i kočioni sustavi, ugrađuju motore druge vrste, vrste i karakteristika, ugrađuju uređaje za pogon vozila alternativnim gorivima itd. Strukturne i tehničke karakteristike vozila i njihovih sklopova i komponenti moraju biti u skladu s važećim nacionalnim propisima i standardima , a ako za vozila i njihove sastavne dijelove i sklopove nisu usvojeni odgovarajući nacionalni propisi, primjenjuju se međunarodni propisi ili standardi proizvođača. Slično tome, ako ne postoje propisi, standardi ili norme proizvođača za vozila i njihove sastavne dijelove i dijelove, tada se uobičajena tehnološka pravila ili pravila koja propisuje Ministarstvo komunikacija i prometa primjenjuju na prijedlog certifikacijskih tijela i u u skladu s prihvatljivim tehničkim rješenjima. Certifikacija se sastoji od administrativnih, tehničkih i ispitnih zadataka. Po uspostavljanju Mreže ovlaštenih tijela očekujemo značajno sudjelovanje u aktivnostima certificiranja vozila."
+    },
+
+    "homol": {
+      "part1": "Potreba pojačane zaštite okoliša i sudionika u prometu poboljšanjem kvalitete vozila na cestama dovela je do stvaranja određenih direktiva i propisa koji propisuju tehničke zahtjeve za vozila u tehnološki naprednim zemljama, a koje postaju sve strožije svake godine. Krajnja korist ovog procesa je za sve učesnike u prometu, a posebno korisnike koji će upotrebljavati vozila koja su proizvedena po naprednom standardu. Od 1. siječnja 2011. sva vozila koja se uvoze u Bosnu i Hercegovinu, bilo rabljena ili nova, podliježu homologaciji.",
+      "part2": "Odobrenje vozila ili dijelova i uređaja vozila uključuje ispitivanje i utvrđivanje sukladnosti ispitivanih dijelova s ECE pravilima ili direktivama EEC / EC koje se odnose na testni dio i određenu kategoriju vozila.",
+      "part3": "Ministarstvo komunikacija i prometa BiH objavilo je \"Pravilnik o homologaciji vozila, dijelova i pribora vozila\" kojim je propisano preuzimanje 94 novih i 93 ECE propisa za rabljena vozila (a ne kako javnost percipira provjeru samo emisijskih standarda za dijelove motora - koji je samo 1 od preko 90 predmeta) i na osnovu njih je usvojena \"Odluka o najnižim tehničkim zahtjevima\".",
+      "part4": "Institucija za nadzor (konzorcijum o odobrenju) izdala je okvirnu listu vozila koja bi trebalo da ispunjavaju Euro 3 standard. Ne preuzimamo nikakvu odgovornost koja bi mogla nastati upotrebom iste.",
+      "part5": "Odobrenje se sastoji od administrativnih i tehničkih poslova, kao i testiranje i provjeravanje.",
+      "part6": "Ako se pregledom dokumentacije i vozila utvrdi sukladnost s propisima, izdaje vam se tehnički servis Potvrda o sukladnosti pojedinačnog vozila.",
+      "part7": "Certifikat o sukladnosti bit će predstavljen tehničkom pregledu pri prvoj registraciji vozila u Bosni i Hercegovini.",
+      "part8": "Ako se pregledom dokumentacije i vozila utvrdi da vozilo ne ispunjava odredbe Uredbe, homologacijsko tijelo može dati rok od 30 dana za otklanjanje nedostataka.",
+      "part9": "Obaveštenje se daje carinarnici. Ako su nedostaci nepovratni, Ministarstvo donosi rješenje kojim odbija da izda potvrdu o usklađenosti.",
+      "part10": "U posebnim slučajevima provodi se pojednostavljeni postupak homologacije pod nazivom identifikacija vozila i tehnička procjena.",
+      "part11": "U proces su uključeni MKiT BiH, Institucija za nadzor, tehnička služba i ovlašteni predstavnici uvoznika vozila.",
+      "part12": "* Napomena: Objavljeni podaci su samo u informativne svrhe i podložni su promjenama. Tačne i ažurirane informacije dobit će se od ovlaštenog stručnog osoblja zaposlenog u službama za odobravanje."
+    },
+
+    "reg": {
+      "part1": "Da bi se uključio u promet, osim što vozilo mora biti tehnički ispravno - o čemu svjedoči tehnički pregled, vozilo se mora registrirati.",
+      "part2": "Posao registracije i odjavljivanja vozila, izgled službenih obrazaca propisani su \"Pravilnikom o registraciji vozila\".",
+      "part3": "Vozilo se registrira unošenjem registarske tablice i određenim podacima o vozilu, vlasniku vozila i nositelju registracijske potvrde u registar registrovanih vozila, te izdavanjem odgovarajućih dokumenata za vozilo, registarskih tablica i naljepnica .",
+      "part4": "Prva registracija vozila mora se provesti u organizacijskoj jedinici Ministarstva unutarnjih poslova prema mjestu u kojem vlasnik vozila ima sjedište ili sjedište.",
+      "part5": "Sve započinje prijavom za registraciju vozila po prvi put u BiH na propisanom obrascu, koji se mora priložiti uz:",
+      "part6": "- dokaz o vlasništvu vozila;",
+      "part7": "- dokaz o izvršenim obavezama propisanim Zakonom i propisima donesenim na osnovu Zakona, a koje se odnose na upotrebu vozila;",
+      "part8": "- polica obaveznog osiguranja vozila;",
+      "part9": "- dokaz o provedenom carinskom postupku;",
+      "part10": "- dokaz o plaćanju propisanih naknada za obrasce i registarske tablice izdate pri registraciji vozila;",
+      "part11": "- dokaz o tehničkoj ispravnosti vozila, koje ne može biti starije od 30 dana u elektronskom obliku;",
+      "part12": "- potvrda ovlaštene stanice za tehnički pregled o ispunjavanju tehničko-eksploatacijskih uvjeta za obavljanje registrovane djelatnosti (u pisanom obliku) u slučaju da se vozilo koristi za obavljanje iste;",
+      "part13": "- potvrda o ispitivanju i potvrda ako se vozilo pojedinačno proizvodi ili prepravlja;",
+      "part14": "- dokaz o identitetu vlasnika vozila;",
+      "part15": "- dokaz o odobrenoj djelatnosti i dokaz o određenom pravnom licu ili porezni identifikacijski broj, osim ako su valjani dokazi za tu godinu već u evidenciji nadležnog tijela;",
+      "part16": "- dokaz o registraciji aktivnosti u Bosni i Hercegovini i potvrdu o zaposlenju u stranom predstavništvu koju izdaje strano predstavništvo i potpisuje osoba ovlaštena za potpisivanje u ime predstavništva - i za strance u kulturnim misijama i za strane dopisnike kao stalni strani dopisnici;",
+      "part17": "- dokaz o tehničkoj ispravnosti plinskih uređaja za vozila na plin;",
+      "part18": "- dokaz o plaćanju službe tehničkog pregleda u skladu s važećim cjenikom;",
+      "part19": "- dokaz o plaćanju polise obaveznog osiguranja.",
+      "part20": "Registracija vozila završava izdavanjem potvrde o vlasništvu vozila, potvrde o registraciji, registarskih tablica i naljepnica.",
+      "part21": "U odnosu na prvu registraciju, postupak obnove registracije provodi se u cijelosti na STP-u nakon što je tehnički pregled završen izdavanjem ili popunjavanjem relevantnih podataka u potvrdi o vlasništvu vozila, izdavanju registracijske potvrde, registarskih tablica i strugača nakon što je utvrdio je da su ispunjeni svi preduvjeti (isplaćene zakonom propisane naknade i dokaz o plaćanju polise obveznog osiguranja)."
+    },
+
+    "enr": {
+      "part1": "Identifikacijski broj motora strukturna je kombinacija znakova koje proizvođač postavlja na motor radi njegove identifikacije. Broj motora upisan je na bloku motora ili napisan na proizvođačevoj tablici koja je montirana na motoru.",
+      "part2": "Potreba za verifikacijom brojeva javlja se kada vlasnik vozila ili drugo tijelo utvrdi da su neki podaci o broju motora u identifikacijskom dokumentu vozila izostavljeni ili pogrešno napisani.",
+      "part3": "Usluga se naplaćuje prema cjeniku propisanom Pravilnikom Društva."
+    },
+
+    "coo": {
+      "part1": "Posredujemo u administrativnim poslovima promjene vlasništva nad vozilima na temelju \"Pravilnika o registraciji vozila\".",
+      "part2": "Zahtjev za promjenu vlasništva nad vozilom podnosi se nadležnom organu na propisanom obrascu, zajedno sa:",
+      "part3": "- dokaz o promjeni vlasništva: račun za prodaju vozila izdan na ime kupca vozila ili kupoprodajni ugovor ili ugovor o poklonima (samo članovi uže porodice) ili zapis o aukciji ili drugi valjani dokaz o vlasništvu;",
+      "part4": "- dokument koji dokazuje vlasništvo (potvrda o vlasništvu vozila, saobraćajna dozvola);",
+      "part5": "- dokaz o identitetu vlasnika vozila;",
+      "part6": "- polica obaveznog osiguranja vozila;",
+      "part7": "- dokaz o odobrenoj djelatnosti i dokaz o određenom pravnom licu ili porezni identifikacijski broj, osim ako su valjani dokazi za tu godinu već u evidenciji nadležnog tijela;",
+      "part8": "- dokaz o registraciji aktivnosti u Bosni i Hercegovini i potvrdu o zaposlenju u stranom predstavništvu koju izdaje strano predstavništvo i potpisuje osoba ovlaštena za potpisivanje u ime predstavništva - i za strance u kulturnim misijama i za strane dopisnike kao stalni strani dopisnici;",
+      "part9": "- potvrda ovlaštene stanice za tehnički pregled o ispunjavanju tehničko-eksploatacijskih uvjeta za obavljanje registrovane djelatnosti (u pisanom ili elektroničkom obliku) u slučaju da se vozilo koristi za obavljanje iste;",
+      "part10": "- dokaz o plaćanju propisanih naknada za obrasce uvjerenja o registraciji i potvrde o vlasništvu vozila ukoliko je izdato;",
+      "part11": "- dokaz o plaćanju propisanih naknada za registarske tablice u slučaju da vozilo nema registarske tablice sa međunarodnom oznakom BiH.",
+      "part12": "Za vozila sa istekom registracije potrebno je priložiti i sledeće dokaze:",
+      "part13": "* dokaz o izvršenim obavezama propisanim Zakonom i propisima donesenim na osnovu Zakona, a koje se odnose na upotrebu vozila;",
+      "part14": "* dokaz o tehničkoj ispravnosti vozila, koje ne može biti starije od 30 dana u elektronskom obliku;",
+      "part15": "* potvrda ovlaštene stanice za tehnički pregled o ispunjavanju tehničko-eksploatacijskih uvjeta za obavljanje registrovane djelatnosti (u pisanom obliku) u slučaju da se vozilo koristi za obavljanje iste;",
+      "part16": "* potvrda o ispitivanju i potvrda ako se vozilo pojedinačno proizvodi ili prepravlja;",
+      "part17": "* dokaz o tehničkoj ispravnosti plinskih uređaja za vozila na plin;",
+      "part18": "* dokaz o plaćanju službe tehničkog pregleda u skladu s važećim cjenikom;",
+      "part19": "* dokaz o plaćanju polise obaveznog osiguranja.",
+      "part20": "Registracija vozila vrši se izdavanjem ili unošenjem podataka u potvrdu o vlasništvu vozila, izdavanjem uvjerenja o registraciji i izdavanjem registarskih tablica sa međunarodnom oznakom BiH ako ih već nisu izdate, kao i naljepnica naljepnica ako valjanost registracije je istekla.",
+      "part21": "Ako se promjena vlasništva nad vozilom dokaže ugovorom sklopljenim između fizičkih osoba, potpis ovih osoba ovjerava nadležno tijelo, a ako je ugovor zaključen između pravnih osoba, potpise ovjeravaju pravne osobe koje zaključuju ugovor. Kada se vozilo prodaje preko agenta (povjerenika), ugovor i račun ovjerava povjerenik.",
+      "part22": "Ako se vlasnik vozila promijeni tijekom razdoblja registracije, izdaje se potvrda o registraciji s valjanošću zamijenjenog dokumenta.",
+      "part23": "Vlasnik registrovanog vozila dužan je odjaviti vozilo radi prodaje ili prenosa vlasničkih prava na drugi način na nadležni organ s kojim se vozilo vodi na evidenciji."
+    },
+
+    "tacho": {
+      "part1": "Tahograf je uređaj za praćenje koji omogućuje evidentiranje brzine i udaljenosti prijeđenog vozila, bilježenje vremena vožnje članova posade, vremena provedenog u obavljanju profesionalnih aktivnosti bez vozila i vremena odmora. Ono što mora imati odobrenje tipa (žig) izdaje nadležna institucija.",
+      "part2": "Postupanja i obveze vezani za tahografe regulirani su \"Zakonom o radnom vremenu, obaveznim praznicima mobilnih radnika i uređajima za evidentiranje cesta\", \"Pravilnikom o ukupnom trajanju vožnje motornih vozila\", \"Pravilnikom o dimenzijama, ukupnoj masi i osovini opterećenja vozila, na uređajima i opremi koju vozila moraju imati i na osnovnim uvjetima koje moraju zadovoljiti uređaji i oprema cestovnog prometa. \"",
+      "part3": "Vozila čija je najveća dopuštena masa s prikolicom većim od 3,5 tone, te autobusi dizajnirani ili trajno prilagođeni za prijevoz više od devet putnika, uključujući vozača, moraju imati ugrađen tahograf, osim u slučajevima izuzetim zakonom.",
+      "part4": "Analogni tahograf je uređaj u cestovnom prometu za bilježenje brzine i prijeđene udaljenosti, kao i vremena rada i odmora, gdje se podaci bilježe na listu tahografa na koji vrh pisača bilježi mehaničkim pritiskom lista tahografa, a koji omogućava snimanje podataka u jednom danu.",
+      "part5": "Digitalni tahograf je uređaj za cestovni prijevoz koji bilježi brzinu i prijeđenu udaljenost, kao i vrijeme rada i odmora, gdje se podaci pohranjuju u radnu memoriju i na memorijsku karticu, što omogućava pohranu podataka u periodu od 365 dana. Nova vozila koja su prvi put registrirana u Bosni i Hercegovini nakon 16. juna 2010. moraju imati ugrađen digitalni tahograf.",
+      "part6": "Tahograf je podvrgnut redovitim ispitivanjima svake godine kako bi se utvrdilo sukladnost s homologacijom i ispravnošću.",
+      "part7": "Trenutno nudimo usluge kalibracije analognih tahografa na pojedinim STP uređajima unutar mreže.",
+      "part8": "U Bosni i Hercegovini još uvijek nije sustavno obrađeno polje aktiviranja i umjeravanja digitalnih tahografa. Po uspostavljanju sistema očekujemo ozbiljnije sudjelovanje u mreži ovlaštenih radionica."
+    }
+  },
+  "FormData": {
+    "workplace": "Izaberi radno mjesto na kojem apliciraš",
+    "time": "Unesite vrijeme koje vam odgovara",
+    "mailType": "Izaberi tip meila koji šalješ"
+  }
+}

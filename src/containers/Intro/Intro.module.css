@@ -1,0 +1,105 @@
+.Wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 0;
+}
+.LogoBackground {
+  padding: 80px;
+}
+
+.CardsContainer {
+  background-color: #580a0a;
+  width: 100%;
+  padding: 50px;
+  margin-bottom: 0;
+}
+.Cards {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+}
+
+.IntroLogoBig {
+  padding: 20px 20px;
+  animation: slidedown 2s ease-in;
+}
+.IntroLogoSmall {
+  padding: 10px 10px;
+  animation: slidedown 2s ease-in;
+  display: none;
+}
+
+.IC1 {
+  animation: slidein 2s ease-in;
+}
+.IC2 {
+  animation: slidein 1.9s ease-in;
+}
+.IC3 {
+  animation: slidein 1.8s ease-in;
+}
+.IC4 {
+  animation: slidein 1.7s ease-in;
+}
+.IC5 {
+  animation: slidein 1.6s ease-in;
+}
+.IC6 {
+  animation: slidein 1.5s ease-in;
+}
+.IC7 {
+  animation: slidein 1.4s ease-in;
+}
+.IC8 {
+  animation: slidein 1.3s ease-in;
+}
+.IC9 {
+  animation: slidein 1.2s ease-in;
+}
+.IC10 {
+  animation: slidein 1.1s ease-in;
+}
+
+@keyframes slidein {
+  0% {
+    transform: translateX(-400%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+@keyframes slidedown {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(0%);
+  }
+}
+
+@media (max-width: 600px) {
+  .IntroLogoBig {
+    display: none;
+  }
+  .IntroLogoSmall {
+    padding: 10px 10px;
+    width: 300px;
+    height: auto;
+    display: block;
+  }
+  .Cards {
+    width: 100%;
+  }
+  .LogoBackground {
+    padding: 0;
+    padding-top: 40px;
+  }
+}
