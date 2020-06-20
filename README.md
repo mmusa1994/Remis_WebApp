@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
 You can visit the Deployment version of this app on [Remis d.o.o Visoko](https://remis-app-6a881.web.app/)
 
 ## Available Scripts
