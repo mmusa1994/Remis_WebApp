@@ -43,3 +43,13 @@ a {
     width: 100px;
   }
 }
+
+@media (max-width: 900px) {
+  .title {
+    font-size: 10px;
+  }
+  .CardContainer {
+    height: 120px;
+    width: 140px;
+  }
+}
